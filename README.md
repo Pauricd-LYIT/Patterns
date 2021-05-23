@@ -1,4 +1,4 @@
-Software design Patterns tasks:
+Software Design Patterns tasks:
 
 A zip file and github link will be provided to access the code.
 
