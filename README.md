@@ -1,6 +1,6 @@
 Software Design Patterns tasks:
 
-A zip file and github link will be provided to access the code.
+A zip file and github link (https://classroom.github.com/a/AokRhWw5) will be provided to access the code.
 
 1.	Singleton: Double-Check locking
 a.	Update the Kettle class (com.csd.singleton) to use Double-Check Locking to make it thread safe and efficient.
