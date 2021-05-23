@@ -1,0 +1,19 @@
+
+=
+java:S1604"(Make this anonymous inner class a lambda(£·®
+>
+java:S1604"(Make this anonymous inner class a lambda(ÿïÞß
+0
+java:S1220""Move this file to a named package.
+M
+java:S1128"2Remove this unused import 'java.net.SocketOption'.(ÊŸ†ßøÿÿÿÿ
+W
+java:S1128"ARemove this unused import 'java.security.spec.RSAOtherPrimeInfo'.(“¹ÌÉ
+D
+java:S6212"/Declare this local variable with "var" instead.(£·®
+D
+java:S6212"/Declare this local variable with "var" instead.(ÒŒ“L
+E
+java:S6212"/Declare this local variable with "var" instead.(ÿïÞß
+D
+java:S6212"/Declare this local variable with "var" instead.(ÒŒ“L
